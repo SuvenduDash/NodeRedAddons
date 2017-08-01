@@ -10,16 +10,15 @@
     "request": "2.x.x"
   },
   "author": {
-    "name": "Rajesh Sola",
-    "email": "rajeshsola@gmail.com"
+    "name": "Suvendu Dash",
+    "email": "suvendu.15292@gmail.com"
   },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajeshsola/node-red-addons/node-red-contrib-osfy"
+    "url": "git+https://github.com/SuvenduDash/NodeRedAddons/node-red-contrib-osfy"
   },
-  "homepage": "https://github.com/rajeshsola/node-red-addons/wiki",
-  "keywords": [
+    "keywords": [
     "node-red",
     "opensensors",
     "mqtt",
