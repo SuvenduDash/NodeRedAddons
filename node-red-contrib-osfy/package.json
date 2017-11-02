@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-opensensors",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "engines": {
     "node": "=4.x.x"
   },
